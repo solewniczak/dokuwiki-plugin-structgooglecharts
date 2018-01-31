@@ -1,0 +1,7 @@
+base   structgooglecharts
+author Szymon Olewniczak
+email  it@rid.pl
+date   2018-01-31
+name   structgooglecharts plugin
+desc   Insert interactive charts on your wiki pages, using struct schemas and Google Charts.
+url    https://www.dokuwiki.org/plugin:structgooglecharts
